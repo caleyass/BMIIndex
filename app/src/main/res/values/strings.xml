@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">BMIIndex</string>
+    <string name="weight">Weight</string>
+    <string name="o">o</string>
+    <string name="kg">kg</string>
+    <string name="cm">cm</string>
+    <string name="height">Height</string>
+    <string name="_24_35">24.35</string>
+    <string name="you_are_healthy">You are healthy</string>
+    <string name="normal_range_is_18_24">(normal range is 18-24)</string>
+    <string name="calculate">Calculate</string>
 </resources>
